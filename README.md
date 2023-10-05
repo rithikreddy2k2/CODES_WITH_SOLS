@@ -2,7 +2,8 @@
 
 ## Q1. https://leetcode.com/problems/majority-element-ii/ (Solve first & then come here for intuition)
 
-### Proof (ct > n/3: only 2 elements are possible):
+### Proof (1):
+####                          Proof on if ct > n/3: only 2 elements are possible??? 
 ####                          Its obvious that more than 2 elements can't have ct > n/3,
 ####                          As if 2 elements have ct > n/3, total ct of elements (for 2) > 2n/3
 ####                          So, 3rd element must be < n/3 

@@ -1,6 +1,6 @@
 # CODES_WITH_SOLS
 
-### https://leetcode.com/problems/majority-element-ii/
+## Q1. https://leetcode.com/problems/majority-element-ii/
 ### Proof (Maybe):
 ####                       Need proof on how r we so sure that element having ct > n/3, for sure would be a or b??
 ####                       wouldn't there be  any case where it would get compensated by others??

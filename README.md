@@ -1,7 +1,8 @@
 # CODES_WITH_SOLS
 
 ### https://leetcode.com/problems/majority-element-ii/
-#### Proof (Maybe):        Need proof on how r we so sure that ele having 
+### Proof (Maybe):
+####                      Need proof on how r we so sure that ele having 
 ####                       ct > n/3, for sure would be a or b??
 ####                       wouldn't there be  any case where it would get compensated by others??
 ####                       1 1 1 1 2 3 4 5 6 7 8 (Proof mate)

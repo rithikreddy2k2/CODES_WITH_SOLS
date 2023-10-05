@@ -1,6 +1,6 @@
 # CODES_WITH_SOLS
 
-## Q1. https://leetcode.com/problems/majority-element-ii/ (Solve first & then come here for intuition)
+## Q1. https://leetcode.com/problems/majority-element-ii/ (Try to Solve first & then come here for intuition)
 
 ### Proof (1):
 ####                          Proof on if ct > n/3: only 2 elements are possible??? 
@@ -22,3 +22,7 @@
 ####                       as it would exceed 'n' (i.e., 10 currently) to '12', which would change the majority element ct again!!!!
 ####                       Hence, by observations, its clear that if its a majority element (as 2 are possible in n/3 case),it would fall under 'a' or 'b'
 ####                       that we are tracking based on counts.
+
+## Q2. https://leetcode.com/problems/find-the-duplicate-number/ (Try to Solve first & then come here for intuition)
+#### Check the diagram with example from https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/
+#### So, when mapped values to values at corresponding index, it forms a linked list (Refer above link for clear picturizartion)

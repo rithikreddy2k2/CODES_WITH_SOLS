@@ -26,3 +26,7 @@
 ## Q2. https://leetcode.com/problems/find-the-duplicate-number/ (Try to Solve first & then come here for intuition)
 #### Check the diagram with example from https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/
 #### So, when mapped values to values at corresponding index, it forms a linked list (Refer above link for clear picturizartion)
+
+## Q3. https://leetcode.com/problems/integer-break/
+#### DP Solution: https://leetcode.com/problems/integer-break/solutions/2469325/c-recursion-memoization-tabulation-spaceoptimization/
+#### Math Solution: Do Dry run for atleast 10 n-values (U sholud figure it out!!!)
